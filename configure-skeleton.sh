@@ -1,7 +1,7 @@
 #!/bin/bash
 
-git_name=`git config user.name`;
-git_email=`git config user.email`;
+git_name="Yazan Stash";
+git_email="stashyazan@gmail.com";
 
 read -p "Author name ($git_name): " author_name
 author_name=${author_name:-$git_name}

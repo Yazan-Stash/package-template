@@ -1,12 +1,9 @@
 <?php
 
-namespace Spatie\Skeleton;
+namespace YazanStash\Skeleton;
 
 use Illuminate\Support\Facades\Facade;
 
-/**
- * @see \Spatie\Skeleton\SkeletonClass
- */
 class SkeletonFacade extends Facade
 {
     /**
